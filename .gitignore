@@ -1,0 +1,15 @@
+.gitignore
+*.out
+*.o
+*.gch
+*.so
+*.a
+main.c
+main
+menu.c
+menu.h
+build
+pilates
+*.txt
+*.in
+*.cpp
